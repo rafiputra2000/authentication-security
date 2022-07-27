@@ -5,10 +5,14 @@
     "dotenv": "^16.0.1",
     "ejs": "^3.1.8",
     "express": "^4.18.1",
+    "express-session": "^1.17.3",
     "md5": "^2.3.0",
     "mongoose": "^6.4.6",
     "mongoose-encryption": "^2.1.2",
-    "nodemon": "^1.19.4"
+    "nodemon": "^1.19.4",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^7.1.2"
   },
   "name": "secrets_starting_code",
   "version": "1.0.0",
